@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/misc/elfinder-connector
+END
+connector.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/misc/elfinder-connector/connector.php
+END
+elFinderVolumeMySQL.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/misc/elfinder-connector/elFinderVolumeMySQL.class.php
+END
+elFinder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/misc/elfinder-connector/elFinder.class.php
+END
+elFinderVolumeDriver.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/misc/elfinder-connector/elFinderVolumeDriver.class.php
+END
+MySQLStorage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/misc/elfinder-connector/MySQLStorage.sql
+END
+elFinderVolumeLocalFileSystem.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/misc/elfinder-connector/elFinderVolumeLocalFileSystem.class.php
+END
+mime.types
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/misc/elfinder-connector/mime.types
+END
+elFinderConnector.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/misc/elfinder-connector/elFinderConnector.class.php
+END

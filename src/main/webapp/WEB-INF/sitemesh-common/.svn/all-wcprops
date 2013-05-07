@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/WEB-INF/sitemesh-common
+END
+dashboard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/WEB-INF/sitemesh-common/dashboard.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/WEB-INF/sitemesh-common/header.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/WEB-INF/sitemesh-common/login.jsp
+END
+tabs.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/WEB-INF/sitemesh-common/tabs.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/WEB-INF/sitemesh-common/footer.jsp
+END

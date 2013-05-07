@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/WEB-INF
+END
+appengine-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/WEB-INF/appengine-web.xml
+END
+decorators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/WEB-INF/decorators.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/WEB-INF/applicationContext.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/webapp/WEB-INF/web.xml
+END

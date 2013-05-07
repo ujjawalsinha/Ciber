@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/resources
+END
+Ciber-dao.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/resources/Ciber-dao.properties
+END
+Ciber-web-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/resources/Ciber-web-context.xml
+END
+Ciber-service-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/resources/Ciber-service-context.xml
+END
+Ciber-dao-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/resources/Ciber-dao-context.xml
+END
+jta.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/resources/jta.properties
+END
+Ciber-security-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/resources/Ciber-security-context.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/resources/log4j.properties
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/resources/hibernate.properties
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/infrastructure/!svn/ver/2276/data/management/CIBR_ORACLE_DEV/Ciber/src/main/java/com/caderon/ciber/dao
+END
+Admin1DAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/java/com/caderon/ciber/dao/Admin1DAOImpl.java
+END
+Admin1DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/infrastructure/!svn/ver/2276/data/management/CIBR_ORACLE_DEV/Ciber/src/main/java/com/caderon/ciber/dao/Admin1DAO.java
+END
+Admin1DAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/infrastructure/!svn/ver/2277/data/management/CIBR_ORACLE_DEV/Ciber/src/main/java/com/caderon/ciber/dao/Admin1DAOTest.java
+END

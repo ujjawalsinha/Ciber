@@ -1,0 +1,29 @@
+
+# date
+date.format=MM/dd/yyyy
+date.format.invalid=Invalid date. Use
+
+# navigation
+navigation.new=New
+navigation.list=List
+navigation.back=Back
+navigation.save=Save
+navigation.edit=Edit
+navigation.view=View
+navigation.delete=Delete
+navigation.add=Add
+navigation.dateTime.title=MM/dd/yyyy hh:mm:ss AM
+
+# Admin1
+admin1.title=Admin1
+admin1.id.title=Id
+admin1.id.help=Enter Id
+admin1.username.title=Username
+admin1.username.help=Enter Username
+admin1.password.title=Password
+admin1.password.help=Enter Password
+admin1.role.title=Role
+admin1.role.help=Enter Role
+admin1.location.title=Location
+admin1.location.help=Enter Location
+
